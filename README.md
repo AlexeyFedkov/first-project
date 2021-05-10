@@ -1,3 +1,9 @@
-# LearnCPPForUnrealEngineUnit2
-Assets for the Unreal Engine Tutorial Series
-NOTE: Download the .zip files for all sounds! You must extract them on your machine.
+# Simple first-project
+Простой проект с разными механиками:
+* Управление, камера, передвижение и тд
+* Спавн врагов
+* Сбор
+* Сохранение
+* Боевая система
+* Элементы платформинга(летающие платформы, нажимные плиты и тд)
+* Немного визуала
